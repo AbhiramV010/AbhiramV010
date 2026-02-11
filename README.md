@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">An aspiring electrical engineer from Toronto! 🇨🇦</h3>
+<h3 align="center">A high-school student from Toronto 🍁</h3>
 
 ----------
 
