@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Abhiram%20Vadali&fontSize=70&animation=fadeIn&desc=Aspiring%20Electrical%20Engineer%20|%20Toronto%20System%20Grid%20Stable&descSize=20&descAlignVertical=55" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=tokyonight" style="display:none;" />
-  <img src="https://svg-banners.vercel.app/api?type=terminal&text=Locating+CN+Tower...++[OK]%0APinging+Toronto+Hydro...++[OK]%0AVoltage+Stable:+120V/60Hz%0AStatus:+System+Online&width=600&height=150" />
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Initializing+System...;Loading+Toronto+Grid...;Constructing+CN+Tower...;[||||||||||]+100%25;Signal+Strength%3A+Optimal;Good+morning+World!;V_in+%3D+High;Current+Status%3A+Coding;I'm+Abhiram%2C+Aspiring+EE" alt="Typing SVG" />
+  </a>
+</h1>
 
 <h3 align="center">A high-school student from Toronto 🍁</h3>
 
