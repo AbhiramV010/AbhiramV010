@@ -1,8 +1,6 @@
 <h1 align="center">Hey there! I'm Abhiram</h1>
 <h3 align="center">An aspiring electrical engineer from Toronto!</h3>
 
-- 🌱 I’m currently learning **Python, Java, and Arduino.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhiram-vadali-286a56361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiram-vadali-286a56361" height="30" width="40" /></a>
