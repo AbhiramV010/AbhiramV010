@@ -6,14 +6,7 @@
 
 <h3 align="center">An aspiring electrical engineer from Toronto! 🇨🇦</h3>
 
----
-
-### ⚡ System Parameters:
-* **Status:** `Stable / High Performance`
-* **Input:** `Coffee` | **Output:** `Clean Code & Circuits`
-* **Current Focus:** Bridging the gap between Hardware and Software.
-
----
+----------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
