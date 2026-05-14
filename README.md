@@ -30,5 +30,5 @@
 ----------
 
 <p align="center">
-  <img src="computer_chip.gif" alt="computer_chip_gif" />
+  <img src="computer-chip.gif" alt="computer-chip_gif" />
 </p>
