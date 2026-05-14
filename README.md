@@ -30,5 +30,5 @@
 ----------
 
 <p align="center">
-  <img src="circuitry.gif" alt="circuitry_gif" />
+  <img src="computer_chip.gif" alt="computer_chip_gif" />
 </p>
