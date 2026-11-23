@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF3B3B&center=true&vCenter=true&width=650&lines=Hi,+I'm+Abhiram!;Aspiring+Electrical+Engineer;Embedded+firmware+%26+computer+vision" alt="Hi, I'm Abhiram" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF3B3B&center=true&vCenter=true&width=650&lines=Hi,+I'm+Abhiram!;Aspiring+Electrical+Engineer;Embedded+systems+%26+computer+vision" alt="Hi, I'm Abhiram" />
   </a>
 </h1>
 
